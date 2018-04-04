@@ -1,0 +1,18 @@
+{
+  "name": "quantox/backender-test",
+  "description": "Senior PHP backender test",
+  "type": "project",
+  "keywords": ["test", "backender", "quantox"],
+  "licence": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": "~7.1",
+    "doctrine/dbal": "^2.5.0",
+    "twbs/bootstrap": "^4.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Quantox\\Domain\\": "src/"
+    }
+  }
+}

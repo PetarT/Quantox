@@ -1,0 +1,6 @@
+{
+  "dbname"   : "quantox",
+  "user"     : "quantox",
+  "password" : "quantox",
+  "host"     : "localhost"
+}
